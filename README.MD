@@ -67,4 +67,4 @@ I specialize in automating deployments, building scalable CI/CD pipelines, manag
 ---
 
 ### 📌 Thanks for Visiting!
-If you like my work, feel free to ⭐ my repositories and connect with me on .
+If you like my work, feel free to ⭐ my repositories and connect with me on LinkedIn.
