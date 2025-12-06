@@ -19,6 +19,7 @@
 - **OS**: Linux
 - **CI/CD**: Azure DevOps, GitHub Actions, Jenkins
 - **SCM**: GitHub
+- **Configuration**: Ansible
 - **IaC**: Terraform 
 - **Containers**: Docker, Kubernetes 
 - **Scripting**: Bash, Shell
