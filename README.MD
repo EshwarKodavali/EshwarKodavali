@@ -4,8 +4,7 @@
 
 # 👋 Hi, I'm Sai Eshwar Kodavali
 
-# 💫 About Me:
-Software Engineer@TCS
+### Software Engineer@TCS
 
 
 ## 🌐 Socials:
