@@ -52,10 +52,11 @@ I specialize in automating deployments, building scalable CI/CD pipelines, manag
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EshwarKodavali&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=EshwarKodavali&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarKodavali&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EshwarKodavali&show_icons=true&theme=dark" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarKodavali&theme=dark" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarKodavali&layout=compact&theme=dark" />
 </p>
+
 
 ---
 
