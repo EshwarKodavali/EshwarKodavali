@@ -50,3 +50,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarKodavali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/EshwarKodavali/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
