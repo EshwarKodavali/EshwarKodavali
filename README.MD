@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Sai Eshwar Kodavali**
 
-### 🚀 DevOps & Cloud Engineer  
+### 🚀 DevOps Engineer  
 **Software Engineer @ TCS | AWS • Azure • Kubernetes • CI/CD • Terraform • Ansible**
 
 I specialize in automating deployments, building scalable CI/CD pipelines, managing cloud infrastructure, and container-orchestrated microservices.
